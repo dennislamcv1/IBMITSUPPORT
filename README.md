@@ -1,5 +1,5 @@
-# IBMITSupport
-## IBM IT Support Professional Certificate
+# IBMITSUPPORT
+## IBM IT Support Professional Certificate (9 course series)
 
 Prepare for an in-demand career in Information Technology (IT). In this program, you’ll develop a strong foundation in IT fundamentals, networking, cybersecurity, and cloud computing to get job-ready in as little as 3 months, with no prior experience or degree needed to get started.
 
